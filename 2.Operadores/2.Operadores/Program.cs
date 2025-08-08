@@ -79,18 +79,19 @@
             bool exp5 = !exp3 || exp4;
             Console.WriteLine($"exp1={exp1}, exp2={exp2}, exp3={exp3}, exp4={exp4},exp5={exp5}");
 
-            //Operadores de Comparación
-            bool exp6 = 5 > 5;// true, false
+            //OPERADORES DE COMPARACIÓN
+            bool exp6 = 5 > 4;
             Console.WriteLine(exp6);
-            bool exp7 = 6 == 6; //Operador de igualdad
+            bool exp7 = 5>=5;
             Console.WriteLine(exp7);
-            bool exp8 = 4 != 5; //Operador diferente
+            bool exp8 = 100 == 102;
             Console.WriteLine(exp8);
-            bool exp9 = 5 > 4 && 6 != 6; 
+            bool exp9 = 100 != 102;
             Console.WriteLine(exp9);
-            bool exp10= 10>9 || !exp9;
+            bool exp10 = 5 > 4 && 2 < 3;
             Console.WriteLine(exp10);
-            //Console.ReadKey();
+            bool exp11 = 5 > 4 || !exp4;
+            Console.WriteLine(exp11);
         }
     }
 }
