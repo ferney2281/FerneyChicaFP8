@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\FerneyChica\\FerneyChicaFP8\\2.Operadores\\2.Operadores\\2.Operadores.csproj",
-      "projectName": "2.Operadores",
-      "projectPath": "C:\\Users\\user\\Desktop\\FerneyChica\\FerneyChicaFP8\\2.Operadores\\2.Operadores\\2.Operadores.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\FerneyChica\\FerneyChicaFP8\\3.Condicionales\\3.Condicionales.csproj",
+      "projectName": "3.Condicionales",
+      "projectPath": "C:\\Users\\user\\Desktop\\FerneyChica\\FerneyChicaFP8\\3.Condicionales\\3.Condicionales.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\FerneyChica\\FerneyChicaFP8\\2.Operadores\\2.Operadores\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\FerneyChica\\FerneyChicaFP8\\3.Condicionales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
